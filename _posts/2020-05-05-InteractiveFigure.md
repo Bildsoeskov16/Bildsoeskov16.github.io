@@ -85,3 +85,4 @@ Test, herinde skal første interaktive HTML plot være
   </body>
   
 </html>
+Figure should be here if this is visible
