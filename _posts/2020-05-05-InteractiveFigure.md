@@ -1,3 +1,5 @@
+layout: html
+
 Test, herinde skal første interaktive HTML plot være
 
 Figure should be after here if this is visible 
