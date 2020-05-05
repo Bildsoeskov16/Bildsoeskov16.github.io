@@ -1,5 +1,10 @@
-layout: html
-
+---
+layout: post
+title:  "Welcome to first try"
+date:   2014-12-30 09:00:13
+categories: jekyll update
+permalink: /archivers/hello
+---
 Test, herinde skal første interaktive HTML plot være
 
 Figure should be after here if this is visible 
